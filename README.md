@@ -1,1 +1,1 @@
-# Gameboy-Emulator-in-Rust Yay
+# Gameboy-Emulator-in-Rust
