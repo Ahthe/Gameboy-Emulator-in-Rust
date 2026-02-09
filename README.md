@@ -1,3 +1,2 @@
 # Gameboy-Emulator-in-Rust
-
-Gqameboy
+This a game boy emulator made in rust!
